@@ -94,14 +94,3 @@ public class Solution_소수찾기 {
 
 
 
-
-
-
-// arr 방법		
-//arr = new Integer[len];
-//for(int i=0, len = str_numbers.length(); i<len; ++i) {
-//	arr[i] = str_numbers.charAt(i)-'0';
-//}
-//Arrays.sort(arr, Collections.reverseOrder());
-//System.out.println(Arrays.toString(arr));
-
